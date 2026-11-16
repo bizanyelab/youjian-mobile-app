@@ -44,4 +44,4 @@ The publish → save → display chain was probe-tested end to end before this r
 
 ---
 
-*Built and operated by [BizAnyE](https://github.com/bizanye8) — founder, Youjian. Previously: Web3 gaming operations across 200+ accounts, ≈ ¥1.62M realized.*
+*Built and operated by [BizAnyE](https://github.com/bizanyelab) — founder, Youjian. Previously: Web3 gaming operations across 200+ accounts, ≈ ¥1.62M realized.*
